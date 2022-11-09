@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhi
 - 👀 I’m interested in WebD
-- 🌱 I’m currently learning Django and Tkinter
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: siddhiagarkar1203@gmail.com
 
