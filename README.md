@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Siddhi
+<h2 style={text-align: center;}>👋 Hi, I’m Siddhi</h2>
+
 - 🌱 I’m currently learning Django framework
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me: siddhiagarkar1203@gmail.com
@@ -7,6 +8,7 @@ siddhiagarkar/siddhiagarkar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
+
 <h2 style={text-align: center;}>GITHUB STATS<h2>
   
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,5 +27,4 @@ You can click the Preview link to take a look at your changes.
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  
 </div>
