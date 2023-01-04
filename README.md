@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 <div align="center">
-![](https://komarev.com/ghpvc/?username=siddhiagarkar&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=siddhiagarkar&style=for-the-badge&label=PROFILE+VIEWS)]
   
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
