@@ -1,4 +1,4 @@
-<h2 style={text-align: center;}>👋 Hi, I’m Siddhi</h2>
+<h1 style={text-align: center;}>👋 Hi, I’m Siddhi</h1>
 
 - 🌱 I’m currently learning Django framework
 - 👀 I’m interested in Machine Learning
