@@ -9,4 +9,8 @@ siddhiagarkar/siddhiagarkar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhiagarkar)](https://github.com/anuraghazra/github-readme-stats)
+[![Siddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhiagarkar&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhiagarkar)](https://git.io/streak-stats)
