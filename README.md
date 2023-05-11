@@ -1,6 +1,6 @@
 <h1 style={text-align: center;}>👋 Hi, I’m Siddhi</h1>
 
-- 🌱 I’m currently learning Django REST Framework and React
+- 🌱 I’m currently learning Django REST Framework and React.js
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me: siddhiagarkar1203@gmail.com
 <!---
