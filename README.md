@@ -1,7 +1,7 @@
 <h1 style={text-align: center;}>👋 Hi, I’m Siddhi</h1>
 
-- 🌱 I’m currently learning Django REST Framework and React.js
-- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning React.js and Data Structures and Algorithms
+- 👀 I’m interested in Machine Learning and Competitive Programming
 - 📫 How to reach me: siddhiagarkar1203@gmail.com
 <!---
 siddhiagarkar/siddhiagarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
