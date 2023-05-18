@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
   
   ![Pfp views](https://komarev.com/ghpvc/?username=siddhiagarkar&style=for-the-badge&color=brightgreen)
   
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhiagarkar&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhiagarkar&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=siddhiagarkar&theme=dark-smoky&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=siddhiagarkar&theme=dark-smoky&border_radius=11)](https://git.io/streak-stats)
 
   <h2 style={text-align: center;}>TECHNICAL STATS<h2>
     
