@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2 style={text-align: center;}>GITHUB STATS<h2>
   
+  ![Pfp views](https://komarev.com/ghpvc/?username=siddhiagarkar&style=for-the-badge&color=brightgreen)
+  
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhiagarkar&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
