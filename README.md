@@ -1,8 +1,9 @@
 <h1 style={text-align: center;}>👋 Hi, I’m Siddhi</h1>
 
-- 🌱 I’m currently learning Data Structures and Algorithms in C++
+- 🌱 I’m currently learning <b>Data Structures and Algorithms in C++</b>
 - 👀 I’m interested in Machine Learning and Competitive Programming
 - 📫 How to reach me: siddhiagarkar1203@gmail.com
+- :telescope: Let's connect: <a href="https://www.linkedin.com/in/siddhi-agarkar-56b7a8231/">LinkedIn</a>
 <!---
 siddhiagarkar/siddhiagarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
