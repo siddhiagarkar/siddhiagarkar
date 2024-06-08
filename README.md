@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h2 style={text-align: center;}>GITHUB STATS<h2>
  
   
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiagarkar&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhiagarkar&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,7 +30,10 @@ You can click the Preview link to take a look at your changes.
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Django rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
     <br></br>
    ![Pfp views](https://komarev.com/ghpvc/?username=siddhiagarkar&style=for-the-badge&color=brightgreen)
 </div>
