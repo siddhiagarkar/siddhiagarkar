@@ -1,7 +1,7 @@
 <h1 style={text-align: center;}>👋 Hi, I’m Siddhi</h1>
 
-- 🌱 I’m currently learning <b>Java Spring</b>
-- 👀 I’m interested in Machine Learning and Competitive Programming
+- 🌱 I’m currently learning about <b>Blockchain</b>
+- 👀 I’m interested in Machine Learning and Problem-solving
 - 📫 How to reach me: siddhiagarkar1203@gmail.com
 - :telescope: Let's connect: <a href="https://www.linkedin.com/in/siddhi-agarkar-56b7a8231/">LinkedIn</a>
 <!---
